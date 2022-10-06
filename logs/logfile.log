@@ -1,0 +1,8 @@
+INFO  | 2022-10-04 10:34:47 | [main] moodanalyzer.App (App.java:13) - Mood Analyzer!
+INFO  | 2022-10-04 10:48:49 | [main] moodanalyzer.App (App.java:10) - Mood Analyzer!
+INFO  | 2022-10-04 10:48:49 | [main] moodanalyzer.App (App.java:12) - HAPPY
+INFO  | 2022-10-04 10:49:00 | [main] moodanalyzer.App (App.java:10) - Mood Analyzer!
+INFO  | 2022-10-04 10:49:00 | [main] moodanalyzer.App (App.java:12) - HAPPY
+INFO  | 2022-10-04 10:49:02 | [main] moodanalyzer.App (App.java:10) - Mood Analyzer!
+INFO  | 2022-10-04 10:49:02 | [main] moodanalyzer.App (App.java:12) - HAPPY
+INFO  | 2022-10-06 15:19:35 | [main] moodanalyzer.App (App.java:10) - Mood Analyzer!
